@@ -191,7 +191,7 @@
 .form__button {
   border-radius: 4px;
   background-color: #1878dc;
-  transition: background-color 1s ease linear;
+  transition: background-color 1s ease;
   margin-bottom: 32px;
   padding: 20px 0px;
   width: 100%;
