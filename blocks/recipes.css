@@ -28,6 +28,7 @@
   gap: 40px;
   justify-content: center;
   list-style-type: none;
+  padding-left: 0;
 }
 .recipes__iframe {
   margin-top: 80px;
