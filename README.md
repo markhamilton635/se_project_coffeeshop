@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Continueing to work on this webpage i would like to include more personalized background images, something to stand out for the coffee shop. i would also like to make all the images used relative to the window size so they dont squish together when the window size gets smaller. i would like to add some more flare to the recipes section as well, so it feels welcoming and creative.
